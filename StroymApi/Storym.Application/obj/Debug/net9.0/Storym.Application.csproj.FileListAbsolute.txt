@@ -1,0 +1,15 @@
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.Application.csproj.AssemblyReference.cache
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.Application.AssemblyInfoInputs.cache
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.Application.AssemblyInfo.cs
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.Application.csproj.CoreCompileInputs.cache
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\bin\Debug\net9.0\Storym.Application.deps.json
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\bin\Debug\net9.0\Storym.Application.dll
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\bin\Debug\net9.0\Storym.Application.pdb
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\bin\Debug\net9.0\Storym.Domain.dll
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\bin\Debug\net9.0\Storym.Domain.pdb
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.A.93921522.Up2Date
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.Application.dll
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\refint\Storym.Application.dll
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\Storym.Application.pdb
+C:\projects\StroymApiRemake\StroymRemake\Storym.Application\obj\Debug\net9.0\ref\Storym.Application.dll

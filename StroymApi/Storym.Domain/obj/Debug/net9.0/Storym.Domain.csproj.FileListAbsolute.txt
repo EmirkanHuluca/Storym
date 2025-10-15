@@ -1,0 +1,11 @@
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\bin\Debug\net9.0\Storym.Domain.deps.json
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\bin\Debug\net9.0\Storym.Domain.dll
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\bin\Debug\net9.0\Storym.Domain.pdb
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\Storym.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\Storym.Domain.AssemblyInfoInputs.cache
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\Storym.Domain.AssemblyInfo.cs
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\Storym.Domain.csproj.CoreCompileInputs.cache
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\Storym.Domain.dll
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\refint\Storym.Domain.dll
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\Storym.Domain.pdb
+C:\projects\StroymApiRemake\StroymRemake\Storym.Domain\obj\Debug\net9.0\ref\Storym.Domain.dll

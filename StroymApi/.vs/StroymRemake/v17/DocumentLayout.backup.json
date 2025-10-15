@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\StroymApiRemake\\StroymRemake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\creatediaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\creatediaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\editdiaryentrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\editdiaryentrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\queries\\getdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\queries\\getdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\queries\\getbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\queries\\getbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\queries\\getfeedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\queries\\getfeedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\queries\\getfollowerspagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\queries\\getfollowerspagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\queries\\getfollowingpagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\queries\\getfollowingpagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\queries\\getfollowstatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\queries\\getfollowstatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\queries\\getminequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\queries\\getminequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\queries\\getmyprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\queries\\getmyprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\queries\\getuserpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\queries\\getuserpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\queries\\getuserprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\queries\\getuserprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\services\\followreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\services\\followreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\abstactions\\ifollowreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\abstactions\\ifollowreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\diaryentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\diaryentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D25CE86-731B-41C7-B81E-6611AFBC3577}|Storym.Api\\Storym.Api.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D25CE86-731B-41C7-B81E-6611AFBC3577}|Storym.Api\\Storym.Api.csproj|solutionrelative:storym.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\abstactions\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\abstactions\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\publicuserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\publicuserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\services\\userreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\services\\userreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\abstactions\\iuserreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\abstactions\\iuserreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\repositories\\followrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\repositories\\followrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\commands\\unfollowusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\commands\\unfollowusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\commands\\followusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\commands\\followusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Migrations\\20250904202145_AddFollows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Storym.Infrastructure\\Migrations\\20250904202145_AddFollows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\abstactions\\ifollowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\abstactions\\ifollowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4623E9A6-42C4-4586-984D-C834CAA76897}|Storym.Domain\\Storym.Domain.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.domain\\social\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4623E9A6-42C4-4586-984D-C834CAA76897}|Storym.Domain\\Storym.Domain.csproj|solutionrelative:storym.domain\\social\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\users\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\users\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\abstactions\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\abstactions\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\abstactions\\idiaryentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\abstactions\\idiaryentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\persistence\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\persistence\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4623E9A6-42C4-4586-984D-C834CAA76897}|Storym.Domain\\Storym.Domain.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.domain\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4623E9A6-42C4-4586-984D-C834CAA76897}|Storym.Domain\\Storym.Domain.csproj|solutionrelative:storym.domain\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\services\\httpcurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\services\\httpcurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\persistence\\diaryentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\persistence\\diaryentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\services\\systemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\services\\systemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D25CE86-731B-41C7-B81E-6611AFBC3577}|Storym.Api\\Storym.Api.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D25CE86-731B-41C7-B81E-6611AFBC3577}|Storym.Api\\Storym.Api.csproj|solutionrelative:storym.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D25CE86-731B-41C7-B81E-6611AFBC3577}|Storym.Api\\Storym.Api.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D25CE86-731B-41C7-B81E-6611AFBC3577}|Storym.Api\\Storym.Api.csproj|solutionrelative:storym.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\togglelikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\togglelikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\diary\\validators\\creatediaryentryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\diary\\validators\\creatediaryentryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\common\\exceptions\\forbiddenaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\common\\exceptions\\forbiddenaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838C44B-8964-4B86-83C4-1E5E3FD56F75}|Storym.Application\\Storym.Application.csproj|solutionrelative:storym.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\migrations\\20250901211251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\migrations\\20250901211251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|c:\\projects\\stroymapiremake\\stroymremake\\storym.infrastructure\\migrations\\20250904202808_addfollows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C796788-34BB-4A10-AC9F-3F15B8BA86DA}|Storym.Infrastructure\\Storym.Infrastructure.csproj|solutionrelative:storym.infrastructure\\migrations\\20250904202808_addfollows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetFollowingPageQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetFollowingPageQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Queries\\GetFollowingPageQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetFollowingPageQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Queries\\GetFollowingPageQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:38:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetFollowersPageQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetFollowersPageQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Queries\\GetFollowersPageQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetFollowersPageQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Queries\\GetFollowersPageQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:37:53.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FollowReadService.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\FollowReadService.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Services\\FollowReadService.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\FollowReadService.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Services\\FollowReadService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:36:54.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFollowReadService.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IFollowReadService.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Abstactions\\IFollowReadService.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IFollowReadService.cs",
+              "RelativeToolTip": "Storym.Application\\Abstactions\\IFollowReadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:36:14.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Abstactions\\PagedResult.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\PagedResult.cs",
+              "RelativeToolTip": "Storym.Application\\Abstactions\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:35:14.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserPostsQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetUserPostsQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Queries\\GetUserPostsQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetUserPostsQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Queries\\GetUserPostsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:15:23.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetUserProfileQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetUserProfileQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Queries\\GetUserProfileQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetUserProfileQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Queries\\GetUserProfileQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:13:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PublicUserProfileDto.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\PublicUserProfileDto.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\PublicUserProfileDto.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\PublicUserProfileDto.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\PublicUserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:13:09.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetFollowStateQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetFollowStateQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Queries\\GetFollowStateQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetFollowStateQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Queries\\GetFollowStateQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:37:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnfollowUserCommand.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Commands\\UnfollowUserCommand.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Commands\\UnfollowUserCommand.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Commands\\UnfollowUserCommand.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Commands\\UnfollowUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:34:29.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FollowUserCommand.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Commands\\FollowUserCommand.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Commands\\FollowUserCommand.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Commands\\FollowUserCommand.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Commands\\FollowUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:32:43.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250904202808_AddFollows.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Migrations\\20250904202808_AddFollows.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Migrations\\20250904202808_AddFollows.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Migrations\\20250904202808_AddFollows.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Migrations\\20250904202808_AddFollows.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:28:08.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250904202145_AddFollows.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Migrations\\20250904202145_AddFollows.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Migrations\\20250904202145_AddFollows.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Migrations\\20250904202145_AddFollows.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Migrations\\20250904202145_AddFollows.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:21:45.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FollowRepository.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Repositories\\FollowRepository.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Repositories\\FollowRepository.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Repositories\\FollowRepository.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Repositories\\FollowRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:20:44.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IFollowRepository.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IFollowRepository.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Abstactions\\IFollowRepository.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IFollowRepository.cs",
+              "RelativeToolTip": "Storym.Application\\Abstactions\\IFollowRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:19:33.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:17:33.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Domain\\Social\\Follow.cs",
+              "RelativeDocumentMoniker": "Storym.Domain\\Social\\Follow.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Domain\\Social\\Follow.cs",
+              "RelativeToolTip": "Storym.Domain\\Social\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:16:49.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\UserProfileDto.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\UserProfileDto.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:51:05.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetMyProfileQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetMyProfileQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Users\\Queries\\GetMyProfileQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Users\\Queries\\GetMyProfileQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Users\\Queries\\GetMyProfileQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:49:55.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserReadService.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\UserReadService.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Services\\UserReadService.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\UserReadService.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Services\\UserReadService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:58:33.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserReadService.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IUserReadService.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Abstactions\\IUserReadService.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IUserReadService.cs",
+              "RelativeToolTip": "Storym.Application\\Abstactions\\IUserReadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:57:27.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Storym.Api\\Program.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Api\\Program.cs",
+              "RelativeToolTip": "Storym.Api\\Program.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAANwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:16:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250901211251_Initial.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Migrations\\20250901211251_Initial.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Migrations\\20250901211251_Initial.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Migrations\\20250901211251_Initial.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Migrations\\20250901211251_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:12:52.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:10:31.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LocalFileStorage.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\LocalFileStorage.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Services\\LocalFileStorage.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\LocalFileStorage.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Services\\LocalFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:56:30.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DiaryEntryRepository.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Persistence\\DiaryEntryRepository.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Persistence\\DiaryEntryRepository.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Persistence\\DiaryEntryRepository.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Persistence\\DiaryEntryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:56:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SystemClock.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\SystemClock.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Services\\SystemClock.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\SystemClock.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Services\\SystemClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:56:01.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HttpCurrentUser.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\HttpCurrentUser.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Services\\HttpCurrentUser.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Services\\HttpCurrentUser.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Services\\HttpCurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:55:54.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:55:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Storym.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:51:06.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Storym.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Storym.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T19:30:19.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Storym.Api\\appsettings.json",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Api\\appsettings.json",
+              "RelativeToolTip": "Storym.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T19:30:18.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetMineQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetMineQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\Queries\\GetMineQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetMineQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\Queries\\GetMineQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:18:08.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDetailsQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetDetailsQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\Queries\\GetDetailsQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetDetailsQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\Queries\\GetDetailsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:17:58.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetByUserQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetByUserQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\Queries\\GetByUserQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetByUserQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\Queries\\GetByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:17:54.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetFeedQuery.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetFeedQuery.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\Queries\\GetFeedQuery.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Queries\\GetFeedQuery.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\Queries\\GetFeedQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:17:45.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateDiaryEntryValidator.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Validators\\CreateDiaryEntryValidator.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\Validators\\CreateDiaryEntryValidator.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\Validators\\CreateDiaryEntryValidator.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\Validators\\CreateDiaryEntryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:17:34.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ForbiddenAccessException.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Common\\Exceptions\\ForbiddenAccessException.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Common\\Exceptions\\ForbiddenAccessException.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Common\\Exceptions\\ForbiddenAccessException.cs",
+              "RelativeToolTip": "Storym.Application\\Common\\Exceptions\\ForbiddenAccessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:14:12.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ToggleLikeCommand.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\ToggleLikeCommand.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\ToggleLikeCommand.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\ToggleLikeCommand.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\ToggleLikeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:12:51.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditDiaryEntryCommand.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\EditDiaryEntryCommand.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\EditDiaryEntryCommand.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\EditDiaryEntryCommand.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\EditDiaryEntryCommand.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:11:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateDiaryEntry.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\CreateDiaryEntry.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\CreateDiaryEntry.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\CreateDiaryEntry.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\CreateDiaryEntry.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:56:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiaryEntryDto.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\DiaryEntryDto.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Diary\\DiaryEntryDto.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Diary\\DiaryEntryDto.cs",
+              "RelativeToolTip": "Storym.Application\\Diary\\DiaryEntryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:55:08.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDiaryEntryRepository.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IDiaryEntryRepository.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Abstactions\\IDiaryEntryRepository.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\IDiaryEntryRepository.cs",
+              "RelativeToolTip": "Storym.Application\\Abstactions\\IDiaryEntryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:54:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Abstactions\\ICurrentUser.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Abstactions\\ICurrentUser.cs",
+              "RelativeToolTip": "Storym.Application\\Abstactions\\ICurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:52:47.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Storym.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Storym.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:00:43.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Storym.Application\\Class1.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Application\\Class1.cs",
+              "RelativeToolTip": "Storym.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:00:23.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Diary.cs",
+              "DocumentMoniker": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Domain\\Diary.cs",
+              "RelativeDocumentMoniker": "Storym.Domain\\Diary.cs",
+              "ToolTip": "C:\\projects\\StroymApiRemake\\StroymRemake\\Storym.Domain\\Diary.cs",
+              "RelativeToolTip": "Storym.Domain\\Diary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:59:45.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
