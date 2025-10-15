@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Storym.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+538e8180e899cbb1e9946ebb4c909adb0b7cbf10")]
 [assembly: System.Reflection.AssemblyProductAttribute("Storym.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Storym.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
